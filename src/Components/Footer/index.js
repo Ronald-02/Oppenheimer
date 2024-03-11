@@ -15,7 +15,7 @@ const MainSection = () => {
         </p>
         <small>
           Projeto desenvolvido por{" "}
-          <a href="https://portifolio-lbhe.vercel.app/">
+          <a href="https://portfolioronald.vercel.app">
             Ronald Da Silva
           </a>
         </small>
